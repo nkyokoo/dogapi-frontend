@@ -52,7 +52,7 @@ export default {
       drawerItems:[
         {
           text:"List of dog breeds",
-          page:"/breeds/index",
+          page:"/breeds/",
           icon:"mdi-paw"
         }
       ],
